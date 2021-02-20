@@ -1,7 +1,8 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
-output: 
-  md_document
+output:
+  md_document:
+    variant: markdown_github
 ---
 
 
